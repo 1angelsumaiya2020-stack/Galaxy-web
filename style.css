@@ -875,7 +875,7 @@ section{
 }
 
 .footer h3{
-  font-size: 18px;
+  font-size: 24px;
 }
 
 
@@ -1391,7 +1391,7 @@ section{
     }
 
     .footer h3{
-        font-size: 10px;
+        font-size: 20px;
     }
 
     .social-box{
@@ -1583,7 +1583,7 @@ section{
     }
 
     .footer h3 {
-        font-size: 3px;
+        font-size: 20px;
         margin-left: -10px;
         color: lightgray;
         width: 140px;
