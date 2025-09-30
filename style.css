@@ -874,6 +874,10 @@ section{
     padding: 0 3rem;
 }
 
+.footer h1{
+  font-size: 24px;
+}
+
 
 /* BLUR EFFECT ANIMAION */
 
@@ -1578,7 +1582,7 @@ section{
     }
 
     .footer h1 {
-        font-size: -36px;
+        font-size: -16px;
         margin-left: -10px;
         color: lightgray;
         width: 140px;
