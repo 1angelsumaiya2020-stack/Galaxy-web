@@ -874,8 +874,8 @@ section{
     padding: 0 3rem;
 }
 
-.footer h1{
-  font-size: 24px;
+.footer h3{
+  font-size: 18px;
 }
 
 
@@ -1390,7 +1390,7 @@ section{
         margin-bottom: 50px;
     }
 
-    .footer{
+    .footer h3{
         font-size: 10px;
     }
 
@@ -1409,6 +1409,7 @@ section{
    .hero-vide{
      opacity: 1;
    }
+  .footer h3{font-size:10px}
 }
 
 /* সব রেসপন্সিভ মিডিয়াতে globs লুকানোর জন্য */
@@ -1581,8 +1582,8 @@ section{
         height: 75px;
     }
 
-    .footer h1 {
-        font-size: -16px;
+    .footer h3 {
+        font-size: 3px;
         margin-left: -10px;
         color: lightgray;
         width: 140px;
